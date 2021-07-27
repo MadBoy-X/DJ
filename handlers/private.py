@@ -21,10 +21,10 @@ async def start(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "Group 💬", url="https://t.me/Its_Fuckin_Hell"
+                    "Group 💬", url="https://t.me/TeslaRobo_Chat"
                 ),
                 InlineKeyboardButton(
-                    "Channel 📣", url="https://t.me/The_HellBot"
+                    "Channel 📣", url="https://t.me/TeslaRobo_Support"
                 )
             ]
         ]
@@ -48,10 +48,10 @@ Happy Streaming 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Repo 📑", url="https://github.com/TheVaders/vc_bot"
+                        "Repo 📑", url="https://github.com/MadBoy-X/MusicBot"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/The_HellBot"
+                        "Channel 📣", url="https://t.me/TeslaRobo_Support"
                     ),
                     InlineKeyboardButton (
                         "Tutorial 🎬", url="https://youtu.be/XaH7VHURBVg"
