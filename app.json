@@ -29,7 +29,7 @@
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
-      "value": "1732236209 1511373882 1232461895"
+      "value": 1732236209 1511373882 1232461895
     },
     "PLAY_PIC": {
       "description": "Paste a telegraph link that you want to display when someone plays a song",
